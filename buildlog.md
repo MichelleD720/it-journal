@@ -16,3 +16,6 @@
 | 2026-10-06 | Pinned it-journal, raspberrypi-setup-guide, and michelled720.github.io on profile | Will add homelab once created |
 | 2026-10-06 | Made azure-journey private | Empty repo; will make public once it has content |
 | 2026-10-07 | Added portfolio URL to LinkedIn contact info (Portfolio type) and resume header | LinkedIn Featured section deferred until more projects are documented |
+| 2026-10-07 | Created homelab repo with README (hardware, services, roadmap) | Pinned on profile |
+| 2026-10-07 | Downloaded Proxmox VE ISO and flashed installer USB with Rufus | DD image mode; Corsair needs a SATA SSD boot drive before install |
+| 2026-10-07 | Fixed broken links on portfolio knowledge base index | Links now resolve to the correct KB articles |
