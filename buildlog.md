@@ -19,4 +19,5 @@
 | 2026-10-07 | Created homelab repo with README (hardware, services, roadmap) | Pinned on profile |
 | 2026-10-07 | Downloaded Proxmox VE ISO and flashed installer USB with Rufus | DD image mode; Corsair needs a SATA SSD boot drive before install |
 | 2026-10-07 | Fixed broken links on portfolio knowledge base index | Links now resolve to the correct KB articles |
+| 2026-10-08 | Installed and configured Proxmox environment on corsair 90 GB SSD
 | 2026-10-09 | Installed GeeekPi P33 M.2 NVMe PoE+ HAT, official Pi 5 active cooler, and Fikwot FN501 Pro 256 GB NVMe SSD on Raspberry Pi 5 | Hardware only; OS reflash to NVMe and fresh WireGuard setup planned next session |
